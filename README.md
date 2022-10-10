@@ -13,7 +13,7 @@
 | 자동차경주게임 |      [@ronci](https://github.com/ronci)      |     [PR](https://github.com/woowacourse/javascript-racingcar/pull/87)     |     [PR](https://github.com/woowacourse/javascript-racingcar/pull/141)     |   -    | [@youngbeomrhee](https://github.com/youngbeomrhee) |
 | 로또           |     [@al-bur](https://github.com/al-bur)     |       [PR](https://github.com/woowacourse/javascript-lotto/pull/87)       |       [PR](https://github.com/woowacourse/javascript-lotto/pull/120)       |   -    | [@austinpark420](https://github.com/austinpark420) |
 | 유튜브API      |    [@nan-noo](https://github.com/nan-noo)    | [PR](https://github.com/woowacourse/javascript-youtube-classroom/pull/86) | [PR](https://github.com/woowacourse/javascript-youtube-classroom/pull/115) |   -    |      [@roy-jung](https://github.com/roy-jung)      |
-| 지하철노선도   | [@InKyoJeong](https://github.com/InKyoJeong) |  [PR](https://github.com/woowacourse/javascript-vendingmachine/pull/27)   |   [PR](https://github.com/woowacourse/javascript-vendingmachine/pull/47)   |   -    |     [@EungyuCho](https://github.com/EungyuCho)     |
+| 자판기 미션    | [@InKyoJeong](https://github.com/InKyoJeong) |  [PR](https://github.com/woowacourse/javascript-vendingmachine/pull/27)   |   [PR](https://github.com/woowacourse/javascript-vendingmachine/pull/47)   |   -    |     [@EungyuCho](https://github.com/EungyuCho)     |
 
 - 과정 목표
   - 프론트엔드의 기본이 되는 HTML, CSS, JS에 대한 기본 문법을 익혀 프로그래밍을 한다.
