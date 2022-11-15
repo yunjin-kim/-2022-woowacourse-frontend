@@ -124,6 +124,10 @@
   - 레벨1 ~ 레벨4 과정에서 부족한 부분에 대한 추가 학습을 한다.
   - 이력서 작성, 모의 면접을 통해 취업 준비를 하고, 리쿠르팅 데이를 통해 기업과 만남의 시간을 가진다.
 
+- 관련 블로그 포스트
+
+  - [ErrorBoundary with React Query](https://velog.io/@giriboy/ErrorBoundary-with-React-Query)
+
 - 테코톡 발표
 
   [![브라우저 렌더링](https://img.youtube.com/vi/v8H5ujL4Tt8/0.jpg)](https://www.youtube.com/watch?v=v8H5ujL4Tt8)
