@@ -127,6 +127,7 @@
 - 관련 블로그 포스트
 
   - [ErrorBoundary with React Query](https://velog.io/@giriboy/ErrorBoundary-with-React-Query)
+  - [Caching with React Query](https://velog.io/@giriboy/Caching-with-React-Query-3tlb1x77)
 
 - 테코톡 발표
 
